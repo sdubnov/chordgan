@@ -2,8 +2,7 @@
 Conan Lu and Shlomo Dubnov  
 University of California, San Diego
 
-
-
+See https://conanlu.github.io/chordgan/ for paper and samples
 
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1000px-Tensorflow_logo.svg.png" width="25"/> Compatibility
